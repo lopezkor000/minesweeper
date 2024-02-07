@@ -3,5 +3,10 @@
 		"easy": 0.1,
 		"medium": 0.2,
 		"hard": 0.4
+	},
+	"display": {
+		"x": 500,
+		"y": 500,
+		"color": "red"
 	}
 }
